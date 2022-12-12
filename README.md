@@ -1,3 +1,3 @@
 # First-step-towards-
 
-## Geting familiar with GitHuub
+## Geting familiar with GitHub
