@@ -3,5 +3,5 @@
 
 ## Geting familiar with GitHub
 
-#Fork and pull test
-##edited
+# Fork and pull test
+## edited
